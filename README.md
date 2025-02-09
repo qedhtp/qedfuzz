@@ -1,2 +1,2 @@
 # qed_fuzz
-My fuzz wordlis
+My fuzzing wordlists
